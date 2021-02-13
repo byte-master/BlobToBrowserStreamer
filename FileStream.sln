@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication13", "WebApplication13\WebApplication13.csproj", "{3B3E56CE-03F2-4049-B991-76B29073FB92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamFileDownload", "WebApplication13\StreamFileDownload.csproj", "{3B3E56CE-03F2-4049-B991-76B29073FB92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
